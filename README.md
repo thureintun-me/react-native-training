@@ -25,6 +25,14 @@ daily update source code for react native training
 
 ### Online Resources
 
+-[JS MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+-[The Modern JavaScript Tutorial](https://javascript.info/)
+
+-[React](https://react.dev/)
+
+-[React Native](https://reactnative.dev/)
+
 -[React Native Express](https://www.reactnative.express/)
 
 ### Setup
