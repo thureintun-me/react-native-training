@@ -6,8 +6,16 @@ daily update source code for react native training
 
 - Linux Command Basic
 - Git
-- JS Basic
-- React Basic
+
+### JS Basic
+
+- let,var and const
+- function , arrow function
+
+### React Basic
+
+- props , state
+- hooks(useState,useRef,useEffect,)
 - React Native
 - React Navigation
 - Essentail Library
