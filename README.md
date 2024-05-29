@@ -25,20 +25,22 @@ daily update source code for react native training
 
 ### Online Resources
 
--[Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=9s)
+- [Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=9s)
 
--[JS MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [JS MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
--[The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
--[React](https://react.dev/)
+- [React](https://react.dev/)
 
--[React Native](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/)
 
--[React Native Express](https://www.reactnative.express/)
+- [React Native Express](https://www.reactnative.express/)
 
 ### Setup
 
 - [React Native CLI Setup](https://reactnative.dev/docs/0.70/environment-setup)
 
 - [Expo Quick Start](https://reactnative.dev/docs/0.70/environment-setup?guide=quickstart)
+
+- [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm)
