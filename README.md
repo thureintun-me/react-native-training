@@ -29,7 +29,7 @@ daily update source code for react native training
 
 ### Lecture Videos
 
--[CS50's Mobile App Development with React Native 2018](https://youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR&si=4rOlZpy1Y2uWgFU_)
+- [CS50's Mobile App Development with React Native 2018](https://youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR&si=4rOlZpy1Y2uWgFU_)
 
 ### Online Resources
 
