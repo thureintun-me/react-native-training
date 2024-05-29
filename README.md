@@ -16,8 +16,16 @@ daily update source code for react native training
 ### Books
 
 - [JavaScript လို - တို - ရှင်း](https://eimaung.com/jsbook/)
+
 - [React - လို - တို - ရှင်း](https://eimaung.com/react/)
+
 - [Rockstar Developer](https://eimaung.com/rockstar-developer/)
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+- [Javascript: The Definitive Guide Book by David Flanagan](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/)
+
+- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 
 ### Lecture Videos
 
