@@ -4,8 +4,9 @@ daily update source code for react native training
 
 ## Learning Roadmap
 
-- Linux Command Basic
-- Git
+### Linux Command Basic
+
+### Git
 
 ### JS Basic
 
@@ -16,9 +17,12 @@ daily update source code for react native training
 
 - props , state
 - hooks(useState,useRef,useEffect,)
-- React Native
-- React Navigation
-- Essentail Library
+
+### React Native
+
+### React Navigation
+
+### Essentail Library
 
 ## Resources
 
