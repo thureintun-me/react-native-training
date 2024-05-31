@@ -1,6 +1,20 @@
-# React Native Traning
+# React Native Bootcamp
 
 daily update source code for react native training
+
+- total hours - 40 hours
+
+  - Git and Command Line - 1 day (2 hour)
+
+  - JS - One Week (10 hours)
+
+  - React - One Week (10 hours)
+
+  - React Native - 7 days (14 hours)
+
+  - Extra Skills - 1 day (2 hours)
+
+  - Soft Skills and Working Culture at [Ace Data Systems](https://acedatasystems.com/) - 1 day (2 hours)
 
 ## Learning Roadmap
 
@@ -29,18 +43,29 @@ daily update source code for react native training
 
 ### JS Basic
 
-- let , const , var
+- data types
+- let, const, var
 - function
 - array , objects
 - promises
-- es6 features(rest operator,spread operator,array destructure)
+- ES6 features
+
+  - Map, Filter, Reduce
+  - default parameter
+  - rest parameter
+  - spread opeartor
+  - Destructuring
+  - Module
+
 - npm (package manager)
 
 ### React Basic
 
-- component in react
-- react pattern (composition, provider)
+- component
 - props and state
+- react pattern
+  - composition
+  - provider
 - react hooks
   - useState
   - useEffect
@@ -51,7 +76,13 @@ daily update source code for react native training
 
 ### React Native
 
-- react native core components(View,Text,flatlist,sectionlist,ScrollView,Modal)
+- react native core components
+  - View
+  - Text
+  - flatlist
+  - sectionlist
+  - ScrollView
+  - Modal
 - styling in react native (flexbox)
 - data fetching in react native (fetch , axios)
 - async storage
@@ -66,7 +97,7 @@ daily update source code for react native training
 - Tab Navigator
 - react navigation auth flow
 
-### Bonus
+### Extra
 
 - building apk and aab for android
 - building app for testing purpose in Testflight(for iOS)
