@@ -4,13 +4,61 @@ daily update source code for react native training
 
 ## Learning Roadmap
 
-- Linux Command Basic
-- Git
-- JS Basic
-- React Basic
-- React Native
-- React Navigation
-- Essentail Library
+### Linux Command Basic
+
+    - cd
+    - pwd
+    - ls -la
+    - mkdir, mkdir -p
+    - cat
+    - touch
+    - cp
+    - mv
+
+### Git
+
+    - git init
+    - git status
+    - git add
+    - git commit
+    - git push
+    - git pull
+    - git branch
+    - git checkout
+    - git merge
+
+### JS Basic
+
+    - let , const , var
+    - function
+    - es6 features(rest operator,spread operator,array destructure)
+
+### React Basic
+
+    - component in react
+    - react pattern (composition, provider)
+    - props and state
+    - hooks(useState,useEffect,useRef,useMemo,useCallback,useContext)
+
+### React Native
+
+    - react native core components(View,Text,flatlist,sectionlist,ScrollView,Modal)
+    - styling in react native (flexbox)
+    - data fetching in react native (fetch , axios)
+    - mini project with react native
+
+### React Navigation
+
+    - Stack Navigator
+    - navigation between screen
+    - Tab Navigator
+    - react navigation auth flow
+
+### Bonus
+
+    - building apk and aab for android
+    - building app for testing purpose in Testflight
+    - react query
 
 ## Resources
 
