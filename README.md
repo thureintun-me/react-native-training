@@ -6,11 +6,13 @@ daily update source code for react native training
 
   - Git and Command Line - 1 day (2 hour)
 
-  - JS - One Week (10 hours)
+  - JS - 4 days (8 hours)
 
-  - React - One Week (10 hours)
+  - React - 4 days (8 hours)
 
   - React Native - 7 days (14 hours)
+
+  - React Navigation - 2 days (4 hours)
 
   - Extra Skills - 1 day (2 hours)
 
@@ -77,12 +79,13 @@ daily update source code for react native training
 ### React Native
 
 - react native core components
+
   - View
   - Text
-  - flatlist
-  - sectionlist
+  - Image
+  - TextInput
   - ScrollView
-  - Modal
+
 - styling in react native (flexbox)
 - data fetching in react native (fetch , axios)
 - async storage
