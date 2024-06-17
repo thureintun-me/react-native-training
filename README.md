@@ -2,15 +2,17 @@
 
 daily update source code for react native training
 
-- total hours - 40 hours
+- total hours - **80 hours (2 months/ 8 weeks)**
+- lecture - **70 hours (7 weeks)**
+- project - **1 week**
 
   - Git and Command Line - 1 day (2 hour)
 
-  - JS - 4 days (8 hours)
+  - JS - 8 days (16 hours)
 
-  - React - 4 days (8 hours)
+  - React - 5 days (10 hours)
 
-  - React Native - 7 days (14 hours)
+  - React Native - 17 days (34 hours)
 
   - React Navigation - 2 days (4 hours)
 
@@ -31,6 +33,7 @@ daily update source code for react native training
 - cp
 - mv
 
+
 ### Git
 
 - git init
@@ -48,10 +51,13 @@ daily update source code for react native training
 - data types
 - let, const, var
 - function
+  - arrow function
+  - higher order function
+  - pure function
 - array , objects
 - promises
+  - async await 
 - ES6 features
-
   - Map, Filter, Reduce
   - default parameter
   - rest parameter
