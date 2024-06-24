@@ -41,9 +41,7 @@ The objective of this assignment is to help you understand the basics of Linux c
 ##### Submission:
 - Prepare a report in a text document or PDF with the following details:
   - Commands executed.
-  - Observations for each command.
-  - Any issues faced and how you resolved them.
-
+  
 - Submit your report and ensure your `linux-command-basic` is successfully pushed to the GitHub repository provided.
 
 #### Notes:
