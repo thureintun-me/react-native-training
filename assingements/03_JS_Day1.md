@@ -53,6 +53,7 @@
 - **Task:** Write an function that takes two numbers and returns their sum. Immediately invoke this function with the numbers 5 and 10.
 
 
+
 ### Part 3: Objects
 
 #### 1. Object Creation and Property Access
@@ -97,6 +98,7 @@
 - **Task:** Write a function `isPalindrome` that takes a string as an argument and returns true if the string is a palindrome (reads the same forward and backward), otherwise false.
 
 
+
 #### 5. Checking Leap Year
 
 - **Task:** Write a function `isLeapYear` that takes a year as an argument and returns true if the year is a leap year, otherwise false.
@@ -116,7 +118,23 @@
 
 - **Task:** Write a function `capitalizeWords` that takes a string as an argument and returns the string with the first letter of each word capitalized.
 
-    
+#### 9. Calculating the Sum of an Array
+
+- **Task:** Write a function `sumArray` that takes an array of numbers as an argument and returns the sum of all the numbers.
+
+#### 10. Finding the Longest Word in a Sentence
+
+- **Task:** Write a function `findLongestWord` that takes a string as an argument and returns the longest word in the string.
+
+```javascript
+    // Function to find the longest word in a sentence
+    function findLongestWord(sentence) {
+       //add your logic
+    }
+
+    console.log(findLongestWord("The quick brown fox jumps over the lazy dog")); // Output: "jumps"
+    console.log(findLongestWord("JavaScript is awesome")); // Output: "JavaScript"
+    ```
 
 
 
